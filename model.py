@@ -11,4 +11,4 @@ if __name__ == "__main__":
 def evaluate_model():
  print("Evaluating model performance...")
  # Evalaution code would go here
- return {"accuracy" : 0.95}
+ return {"accuracy" : 0.95} 
